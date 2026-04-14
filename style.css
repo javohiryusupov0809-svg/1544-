@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1400px;
+    max-width: 90%;
+    margin: 0 auto;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.ul_nav{
+    display: flex;
+    gap: 40px;
+    color: gray;
+   
+}
+.ul_nav li:hover{
+    color: black;
+}
+.parent{
+    display: flex;
+    margin-top: 100px;
+    gap: 300px;
+    align-items: center;
+}
+.part1 p{
+    color: gray;
+    margin-top: 40px;
+}
+h1{
+    font-size: 45px;
+}
+.part1 button{
+    width: 197px;
+    height: 49px;
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(65, 65, 240);
+    border: 1px solid rgb(65, 65, 240);
+    margin-top: 80px;
+}
+.part1 button:hover{
+ background-color: red;
+}
+.text p{
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+}
+.part12{
+width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+
+
+}
+.part12:hover{
+    background: blue;
+}
+.br2{
+    margin-top: 68px;
+    margin-left: 39px;
+    color: white;
+} 
+.part13{ 
+width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+} 
+.part13:hover{
+    background-color: blue;
+} 
+.part14{
+ width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+margin: auto;
+justify-content: space-between;
+}
+.part14:hover{
+    background: blue;
+}
+.big{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.part15{
+    width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+margin: auto;
+justify-content: space-between;
+}
+.part15:hover{
+    background: blue;}
+.part16{
+     width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+margin: auto;
+justify-content: center;
+}
+.part16:hover{
+    background: blue;}
+    .bt{
+        margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;}
+.part17{
+       width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+margin: auto;
+justify-content: center;
+}
+.part17:hover{
+    background: blue;}
+
+    .part18{
+       width: 380px;
+height: 380px;
+border: 1px solid blue;
+border-radius: 15px;
+background: red;
+margin-top: 68px;
+margin-left: 39px;
+color: white;
+margin: auto;
+justify-content: center;
+}
+.part18:hover{
+    background: blue;}
+    .min{
+        background: white;
+        border: 1px solid blue;
+        border-radius: 15px;
+        width: 197px;
+        height: 49px;
+      background-color:blue;
+      margin-top: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+       
+    } 
+ .bin{
+display: flex;
+justify-content: center; }
+button:active{
+background-color: rgb(157, 153, 153);
+}
+.sixseven {
+    display: flex;
+    justify-content:right;
+    align-items: center ;
+    margin-bottom: 100px;
+}
+.op{
+    color: grey;
+     text-align: center;
+    width: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+.num{
+    color: grey;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+}
